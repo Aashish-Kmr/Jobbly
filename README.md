@@ -1,4 +1,5 @@
 # Jobbly - API Endpoint Integrated with LLM (OpenAI)
+Track 2 : LLM API Endpoint
 ### Abstract: <br>
 Jobbly is an API endpoint named, designed to assist job seekers and career enthusiasts. Integrated with the LLM (Large Language Model) from OpenAI, Jobbly offers a comprehensive set of features to provide valuable job-related information and resources. With Jobbly, users can access various endpoints to receive personalized job recommendations, explore necessary skills for different roles, discover salary ranges, and gain access to curated resources such as books, free online courses, and paid Udemy courses. With its seamless integration of the OpenAI LLM, Jobbly empowers users with the insights they need to make informed career decisions and take the next steps towards their professional success.
 ### API Link:
